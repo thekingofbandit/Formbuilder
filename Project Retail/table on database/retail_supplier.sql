@@ -1,0 +1,1 @@
+INSERT INTO `retail_supplier`(`ID_Supplier`, `CP_Name`, `Company_Name`, `Address`, `Town`, `County`, `Zip`, `Phone`, `Fax`, `Email`) VALUES ('PKLGM01', 'Denny', 'Gajah Mada Electronic', 'Gajah Mada Street', 'Pekalongan', 'Jawa Tengah', '51118', '0285-270280', '0285-270290', 'gajahmada@gmail.com');
